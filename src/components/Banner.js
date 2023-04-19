@@ -11,7 +11,7 @@ import {motion} from "framer-motion"
 import {fadeIn} from "../variants"
 import { FaInstagram } from 'react-icons/fa';
 //gif
-import astro2 from "../assets/cohete.gif"
+import astro2 from "../assets/cohete-unscreen1.gif"
 
 const Banner = () => {
   return (

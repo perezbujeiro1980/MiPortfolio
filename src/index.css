@@ -153,6 +153,10 @@
   .puente{
     margin-top: 0rem;
   }
+  .btnfn{
+    margin-left: 2rem;
+
+  }
   }
 
   @media screen and (max-width: 640px) {
@@ -165,3 +169,30 @@
     }
     
     }
+
+
+    @media screen and (max-width: 640px) {
+
+.aboutge{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.aboutimg{
+  display: none;
+}
+.abouttitle {
+  font-size: 25px;
+}
+.aboutsub {
+font-size: 25px;
+}
+
+.abouttec{
+  font-size: 17px;
+  text-align: center;
+  }
+
+}
+    
