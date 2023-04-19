@@ -29,7 +29,7 @@ const Work = () => {
       <button className='btn btn-sm'>Ver en GitHub</button></a>
     </div>
     {/* image */}
-    <a href='#'>
+    <a target="_blank" href='https://cuyo-birding.vercel.app/'>
     <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
       {/* overlays */}
       <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
@@ -55,7 +55,7 @@ const Work = () => {
       }}
   className='flex-1 flex flex-col gap-y-10 cajados'>
     {/* image */}
-    <a href='#'>
+    <a target="_blank" href='https://shoppyapp.vercel.app/ '>
     <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
       {/* overlays */}
       <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
@@ -71,7 +71,7 @@ const Work = () => {
     </div>
     </a>
     {/* IMAGE TERCERA CAJA */}
-    <a href='#'>
+    <a target="_blank" href=' https://smokyweb.vercel.app'>
     <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
       {/* overlays */}
       <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
